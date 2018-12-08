@@ -1,7 +1,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Homem-Aranha: De Volta ao Lar[/B</name>
+<name>[B]Homem-Aranha: De Volta ao Lar[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/homemaranhadevoltaaolar</externallink>
 <fanart>https://images2.alphacoders.com/817/817125.jpg</fanart>
@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>[B]Vidas à Deriva[/B</name>
+<name>[B]Vidas à Deriva[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/vidasaderiva</externallink>
 <fanart>https://wallpapersite.com/images/pages/pic_w/13576.jpg</fanart>
@@ -19,7 +19,7 @@
 </channel>
 
 <channel>
-<name>[B]A Origem[/B</name>
+<name>[B]A Origem[/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7zSEIXlHBUKpOz8jEBjKfPub-pZ2Fyk6aM0j0AEttmwWq08CD</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/aorigem</externallink>
 <fanart>https://static.fjcdn.com/pictures/Inception+wallpaper+inception_312f05_4517633.jpg</fanart>
@@ -29,7 +29,7 @@
 
 
 <channel>
-<name>[B]Vingadores: Guerra Infinita[/B</name>
+<name>[B]Vingadores: Guerra Infinita[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/vingadoresguerrainfinita</externallink>
 <fanart>https://static.fjcdn.com/pictures/Inception+wallpaper+inception_312f05_4517633.jpg</fanart>
