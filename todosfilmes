@@ -1,5 +1,50 @@
 <layouttype>thumbnail</layouttype>
+<channel>
+<name>[B]Missão Impossível: Efeito Fallout[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SY1000_CR0,0,639,1000_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/missaoimpossivelefeitofallout</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTUzNDYwNDM3NF5BMl5BanBnXkFtZTgwNjc5Nzc1NTM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por salvar sua equipe em vez de completar a missão. Com isso, armas nucleares caem nas mãos de agentes altamente qualificados e que pertencem a uma rede mortal que deseja destruir a civilização. Agora, com o mundo em risco, Ethan e sua equipe da IMF são forçados a aliar-se a um obstinado agente da CIA.</info>
+<genre>Ação</genre>
+</channel>
+
 <channels></channels>
+<channel>
+<name>[B]Os Incríveis 2[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/osincriveis2</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BZDIxMjg5ZDMtYTE3MS00YTRhLThkNzMtYTk0MDJhYmFjODExXkEyXkFqcGdeQXVyNjgwMDE1ODM@._V1_SX1777_CR0,0,1777,746_AL_.jpg</fanart>
+<info>Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.</info>
+<genre>Ação/genre>
+</channel>
+
+<channel>
+<name>[B]O Protetor 2[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/oprotetor2</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BNGYyNTE4NTktNTMyZi00ZDgwLTk0YTUtYzQxZmZjZmRiZjRiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
+<info>Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.</info>
+<genre>Ação/genre>
+</channel>
+
+<channel>
+<name>[B]22 Milhas[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNzUyODk4OTkxNF5BMl5BanBnXkFtZTgwMzY0MDgzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/22milhas</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTgwMzM3MzcxMV5BMl5BanBnXkFtZTgwOTk2ODMxNjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Um oficial da inteligência de elite dos Estados Unidos, auxiliado por uma unidade de comando tático ultrassecreta, tenta tirar do país um misterioso policial com informações confidenciais.</info>
+<genre>Terror</genre>
+</channel>
+
+<channel>
+<name>[B]A Freira[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/afreira</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BNzk3ODE4OTMzMF5BMl5BanBnXkFtZTgwMDA5NzgxNjM@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
+<info>Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre assombrado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento em um campo de batalha.</info>
+<genre>Terror</genre>
+</channel>
+
 <channel>
 <name>[B]Homem-Aranha: De Volta ao Lar[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
