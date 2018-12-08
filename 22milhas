@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=aEy9MikE14w</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play-trailer.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTgwMzM3MzcxMV5BMl5BanBnXkFtZTgwOTk2ODMxNjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Um oficial da inteligência de elite dos Estados Unidos, auxiliado por uma unidade de comando tático ultrassecreta, tenta tirar do país um misterioso policial com informações confidenciais.</info>
+<genre>Ação</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:e281f08369706ca146e677978f7c081b5e30109e&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTgwMzM3MzcxMV5BMl5BanBnXkFtZTgwOTk2ODMxNjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Um oficial da inteligência de elite dos Estados Unidos, auxiliado por uma unidade de comando tático ultrassecreta, tenta tirar do país um misterioso policial com informações confidenciais.</info>
+<genre>Ação</genre>
+</item>
