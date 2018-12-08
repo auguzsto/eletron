@@ -1,3 +1,5 @@
+<layouttype>thumbnail</layouttype>
+<channels></channels>
 <channel>
 <name>[B]22 Milhas[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzUyODk4OTkxNF5BMl5BanBnXkFtZTgwMzY0MDgzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
@@ -5,4 +7,13 @@
 <fanart>https://m.media-amazon.com/images/M/MV5BMTgwMzM3MzcxMV5BMl5BanBnXkFtZTgwOTk2ODMxNjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
 <info>Um oficial da inteligência de elite dos Estados Unidos, auxiliado por uma unidade de comando tático ultrassecreta, tenta tirar do país um misterioso policial com informações confidenciais.</info>
 <genre>Ação</genre>
+</channel>
+
+<channel>
+<name>[B]O Protetor 2[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/22milhas</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BNGYyNTE4NTktNTMyZi00ZDgwLTk0YTUtYzQxZmZjZmRiZjRiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg/fanart>
+<info>Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.</info>
+<genre>Ação/genre>
 </channel>
