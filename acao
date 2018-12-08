@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Missão Impossível: Efeito Fallout[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SY1000_CR0,0,639,1000_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/missaoimpossivelefeitofallout</externallink>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTUzNDYwNDM3NF5BMl5BanBnXkFtZTgwNjc5Nzc1NTM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por salvar sua equipe em vez de completar a missão. Com isso, armas nucleares caem nas mãos de agentes altamente qualificados e que pertencem a uma rede mortal que deseja destruir a civilização. Agora, com o mundo em risco, Ethan e sua equipe da IMF são forçados a aliar-se a um obstinado agente da CIA.</info>
+<genre>Ação</genre>
+</channel>
+
+<channel>
 <name>[B]22 Milhas[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNzUyODk4OTkxNF5BMl5BanBnXkFtZTgwMzY0MDgzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/22milhas</externallink>
