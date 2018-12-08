@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=8NURuV5GmPY</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play-trailer.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZDIxMjg5ZDMtYTE3MS00YTRhLThkNzMtYTk0MDJhYmFjODExXkEyXkFqcGdeQXVyNjgwMDE1ODM@._V1_SX1777_CR0,0,1777,746_AL_.jpg</fanart>
+<info>A Mulher Elástica entra em ação para salvar o dia, enquanto o Sr. Incrível enfrenta seu maior desafio até agora: cuidar dos problemas de seus três filhos.</info>
+<genre>Animação</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:bae584224315b92237b31af3dcab8e8487a66e88&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BZDIxMjg5ZDMtYTE3MS00YTRhLThkNzMtYTk0MDJhYmFjODExXkEyXkFqcGdeQXVyNjgwMDE1ODM@._V1_SX1777_CR0,0,1777,746_AL_.jpg</fanart>
+<info>A Mulher Elástica entra em ação para salvar o dia, enquanto o Sr. Incrível enfrenta seu maior desafio até agora: cuidar dos problemas de seus três filhos.</info>
+<genre>Animação</genre>
+</item>
