@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]O Resgate da Princesa[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/oresgatedaprincesa</externallink>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BOTUyYmZhNzktNGJiOS00NDZlLWJmY2MtYTMzZjM5NGZmOGVhXkEyXkFqcGdeQXVyODQwNTU3MjU@._V1_SY999_CR0,0,702,999_AL_.jpg</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BM2EwMDQzZWUtNDNhYi00OTkyLWEyNzAtZjY3OTMzMGE4YjU1XkEyXkFqcGdeQXVyNjg3MTIwODI@._V1_.jpg</fanart>
+<info>Ruslan, um artista errante que sonha em se tornar um cavaleiro, conheceu a bela Mila e se apaixonou por ela. No entanto, a felicidade dos amantes não era para durar muito tempo. Chernomor, o malvado feiticeiro, rouba Mila diante dos olhos de Ruslan para transformar seu poder de amor em seu próprio poder mágico. Sem mais delongas, Ruslan sai para socorrer sua amada.</info>
+<genre>Animação</genre>
+</channel>
+
+<channel>
 <name>[B]Os Incríveis 2[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/osincriveis2</externallink>
@@ -17,3 +26,5 @@
 <info>Coleção de filmes Rei leão. Mufasa (James Earl Jones), o Rei Leão, e a rainha Sarabi (Madge Sinclair) apresentam ao reino o herdeiro do trono, Simba (Matthew Broderick). O recém-nascido recebe a bênção do sábio babuíno Rafiki (Robert Guillaume), mas ao crescer é envolvido nas artimanhas de seu tio Scar (Jeremy Irons), o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.</info>
 <genre>Animação</genre>
 </channel>
+
+
