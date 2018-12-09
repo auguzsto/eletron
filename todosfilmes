@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]O Rei Leão[/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SY1000_CR0,0,673,1000_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/reileao</externallink>
+<fanart>https://stmed.net/sites/default/files/the-lion-king-wallpapers-30061-8859051.jpg</fanart>
+<info>Coleção de filmes Rei leão. Mufasa (James Earl Jones), o Rei Leão, e a rainha Sarabi (Madge Sinclair) apresentam ao reino o herdeiro do trono, Simba (Matthew Broderick). O recém-nascido recebe a bênção do sábio babuíno Rafiki (Robert Guillaume), mas ao crescer é envolvido nas artimanhas de seu tio Scar (Jeremy Irons), o invejoso e maquiavélico irmão de Mufasa, que planeja livrar-se do sobrinho e herdar o trono.</info>
+<genre>Animação</genre>
+</channel>
+
+<channel>
 <name>[B]A Rota Selvagem[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNWRiYzYxNTEtYmU5My00M2Q5LTk5Y2ItZjhkMTZmNjVhYmFhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/arotaselvagem</externallink>
