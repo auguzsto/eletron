@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Onda de Choque[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/ondadechoque</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/ondadechoque.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMmEyNWU2NmUtMWJjMC00ZTU1LTk1ODMtYzljNGFlNzI3MTVmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg</fanart>
+<info>O filme conta a história de Cheung Choi San (Andy Lau),agente do esquadrão antibomba e chefe inspetor do (EOD). Cheung Choi-san (Andy Lau) é um inspetor sênior do Escritório de Eliminação de Armamento Explosivo. Sete anos atrás, ele se disfarçou e tornou-se o protegido de Hung Kai-pang, um criminoso especializado em bombas. Cheung desintegrou com sucesso a quadrilha criminosa de Hung, mas durante a operação, o criminoso consegue escapar enquanto seu irmão mais novo e os seus aliados.</info>
+<genre>Ação, Crime</genre>
+</channel>
+
+<channel>
 <name>[B]Caixa de Pássaros[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/caixadepassaros</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/caixadepassaros.png</thumbnail>
