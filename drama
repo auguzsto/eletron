@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Caixa de Pássaros[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/caixadepassaros</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/caixadepassaros.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjE5Nzk1ODgwMV5BMl5BanBnXkFtZTgwMjU5MTE2NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Uma misteriosa presença leva as pessoas ao suicídio. Cinco anos depois, uma sobrevivente e seus dois filhos saem em busca de um abrigo seguro.</info>
+<genre>Drama, Ficção Científica</genre>
+</channel>
+
+<channel>
 <name>[B]13 Dias que Abalaram o Mundo[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/13diasqueabalaramomundo</externallink>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BZDM5NzBkZWMtZDY2Ny00OGMxLTgzMDUtZDZkNzRhM2M5MDIxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,672,1000_AL_.jpg</thumbnail>
