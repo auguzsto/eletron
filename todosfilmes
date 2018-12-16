@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Caixa de Pássaros[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/caixadepassaros</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/caixadepassaros.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjE5Nzk1ODgwMV5BMl5BanBnXkFtZTgwMjU5MTE2NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Uma misteriosa presença leva as pessoas ao suicídio. Cinco anos depois, uma sobrevivente e seus dois filhos saem em busca de um abrigo seguro.</info>
+<genre>Drama, Ficção Científica</genre>
+</channel>
+
+<channel>
 <name>[B]Família do Bagulho[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/familiadobagulho</externallink>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5Njc0NDUxNV5BMl5BanBnXkFtZTcwMjYzNzU1OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
