@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Rampage: Destruição Total[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/rampagedestruicaototal</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/rampage.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTE0MDg3Njc5MzleQTJeQWpwZ15BbWU4MDA5ODkyMDUz._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
+<info>Davis Okoye é um primatologista (Dwayne Johnson), um homem recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora Okoye tenta conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global.</info>
+<genre>Ação</genre>
+</channel>
+
+<channel>
 <name>[B]Onda de Choque[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/ondadechoque</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/ondadechoque.png</thumbnail>
