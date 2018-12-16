@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNjI1OTU3MjkzMF5BMl5BanBnXkFtZTgwMzY1ODA1NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info> A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrifícios e custos de Neil e toda uma nação durante uma das mais perigosas missões na história das viagens espaciais.</info>
+<genre>Drama</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:TOQKFCEJOB2KVLXWTIHVVWLBAG32Y3KM&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNjI1OTU3MjkzMF5BMl5BanBnXkFtZTgwMzY1ODA1NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info> A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrifícios e custos de Neil e toda uma nação durante uma das mais perigosas missões na história das viagens espaciais.</info>
+<genre>Drama</genre>
+</item>
