@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]O Primeiro Homem[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/oprimeirohomem</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/oprimeirohomem.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BNjI1OTU3MjkzMF5BMl5BanBnXkFtZTgwMzY1ODA1NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info> A vida do astronauta norte-americano Neil Armstrong e sua jornada para se tornar o primeiro homem a andar na Lua. Os sacrifícios e custos de Neil e toda uma nação durante uma das mais perigosas missões na história das viagens espaciais.</info>
+<genre>Drama</genre>
+</channel>
+
+<channel>
 <name>[B]Caixa de Pássaros[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/caixadepassaros</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/caixadepassaros.png</thumbnail>
