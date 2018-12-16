@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<channel>
+<name>[B]Delírios do Passado[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/deliriosdopassado</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/deliriosdopassado.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjYzZmZjNDgtODk3Ni00NTNlLWE2MTYtNjY5NDZjZDEwZmNjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</fanart>
+<info>Tom (Topher Grace) é um homem que foi recentemente liberado de uma instituição mental. Ele agora está vivendo em prisão domiciliar, sob observação de uma policial (Patricia Clarkson). de medicação, Tom aproveita sua liberdade na casa que herdou de seus pais, mas começa a duvidar de sua sanidade quando começa a testemunhar estranhos acontecimentos.</info>
+<genre>Suspense, Terror</genre>
+</channel>
+
 <name>[B]A Freira[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/afreira</externallink>
