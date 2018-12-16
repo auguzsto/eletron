@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=FCiBEHqsAEM</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjYzZmZjNDgtODk3Ni00NTNlLWE2MTYtNjY5NDZjZDEwZmNjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</fanart>
+<info>Tom (Topher Grace) é um homem que foi recentemente liberado de uma instituição mental. Ele agora está vivendo em prisão domiciliar, sob observação de uma policial (Patricia Clarkson). de medicação, Tom aproveita sua liberdade na casa que herdou de seus pais, mas começa a duvidar de sua sanidade quando começa a testemunhar estranhos acontecimentos.</info>
+<genre>Suspense, Terror</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:BJSEP42SWNCRU3G75S6BP5TZ3QTO4YEW&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjYzZmZjNDgtODk3Ni00NTNlLWE2MTYtNjY5NDZjZDEwZmNjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg</fanart>
+<info>Tom (Topher Grace) é um homem que foi recentemente liberado de uma instituição mental. Ele agora está vivendo em prisão domiciliar, sob observação de uma policial (Patricia Clarkson). de medicação, Tom aproveita sua liberdade na casa que herdou de seus pais, mas começa a duvidar de sua sanidade quando começa a testemunhar estranhos acontecimentos.</info>
+<genre>Suspense, Terror</genre>
+</item>
