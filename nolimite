@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=NyQUe80IXt8</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMGI2ZDQwMDQtMDEyYS00ZmFkLWI5ZmItZmYxNjE1YjBhODI4XkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_.jpg</fanart>
+<info>Andrew (Scott Eastwood) e Garrett Foster (Freddie Thorp) são dois irmãos que ganham a vida roubando carros de luxo. Quando são contratados para roubar uma raridade no sul da França, eles pensam ter encontrado o trabalho de suas vidas. O que eles não imaginam é que o dono do veículo, Jacomo Morier (Simon Abkarian), é um mafioso perigoso.</info>
+<genre>Ação</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:6888232AEF29032BA85EC3A5B31B401FA982E801&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMGI2ZDQwMDQtMDEyYS00ZmFkLWI5ZmItZmYxNjE1YjBhODI4XkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_.jpg</fanart>
+<info>Andrew (Scott Eastwood) e Garrett Foster (Freddie Thorp) são dois irmãos que ganham a vida roubando carros de luxo. Quando são contratados para roubar uma raridade no sul da França, eles pensam ter encontrado o trabalho de suas vidas. O que eles não imaginam é que o dono do veículo, Jacomo Morier (Simon Abkarian), é um mafioso perigoso.</info>
+<genre>Ação</genre>
+</item>
