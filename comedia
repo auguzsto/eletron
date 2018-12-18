@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>Os Normais: O Filme[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/osnormais</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/osnormais.png</thumbnail>
+<fanart>https://djiby52t9cgpc.cloudfront.net/custom/uploads/legado/imprensa/foto/download/osnormais_5.jpg</fanart>
+<info>Vani e Rui estão prestes a se casar. Ela com Sérgio, ele com Martha. Ambas as cerimônias estão marcadas para a mesma sacristia, sendo uma às 18 hs e outro às 20 hs. É lá que Vani e Rui se conhecem, quando ela lhe pede um pouco de arroz para comemorar o casamento que está para ocorrer.</info>
+<genre>Comédia</genre>
+</channel>
+
+<channel>
 <name>[B]Família do Bagulho[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/familiadobagulho</externallink>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMjA5Njc0NDUxNV5BMl5BanBnXkFtZTcwMjYzNzU1OQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
