@@ -1,6 +1,52 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Batman vs Superman: A Origem da Justiça[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/batmanvssupermanaorigemdajustica</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/batmanvssupermanaorigemdajustica<.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjI5MjM4MzM1NV5BMl5BanBnXkFtZTgwNzA5MjkxNjE@._V1_SX1777_CR0,0,1777,891_AL_.jpg</fanart>
+<info>Após os eventos de O Homem de Aço, Superman (Henry Cavill) divide a opinião da população mundial. Enquanto muitos contam com ele como herói e principal salvador, vários outros não concordam com sua permanência no planeta. Bruce Wayne (Ben Affleck) está do lado dos inimigos de Clark Kent e decide usar sua força de Batman para enfrentá-lo. Enquanto os dois brigam, porém, uma nova ameaça ganha força.
+</info>
+<genre>Ação</genre>
+</channel>
+
+<channel>
+<name>[B]A Grande Muralha[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/agrandemuralha</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/agrandemuralha.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BOGM3YmQ2YTUtNWE3Yy00ZTE4LWJlNTQtNTZmMDIwZTExMjhjXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX1777_CR0,0,1777,755_AL_.jpg</fanart>
+<info>No século XV, um grupo de soldados britânicos está combatendo na China, e se depara com o início das construções da Grande Muralha. Aos poucos, percebem que o intuito não é apenas proteger a população do inimigo mongol e que a construção esconde um grande segred</info>
+<genre>Ação</genre>
+</channel>
+
+<channel>
+<name>[B]Resident Evil: 6[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/residentevil6</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/residentevil6.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTgwNjM4OTA1Ml5BMl5BanBnXkFtZTgwODAyNDIxMTI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Capítulo Final,O novo filme mostra os últimos momentos da humanidade, após Alice ter sido traída por Wesker em Washington. Sobrevivente do massacre zumbi, a heroína deve retornar para onde o pesadelo começou – Raccoon City, onde a Umbrella Corporation está reunindo suas forças para um ataque final contra os remanescentes do apocalipse. Para escapar, Alice vai precisar da ajuda de velhos e novos amigos, enquanto luta para salvar a raça humana.</info>
+<genre>Ação</genre>
+</channel>
+
+<channel>
+<name>[B]xXx: Reativado[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/xxxreativado</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/xxreativado.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTY4NDYzNzE0N15BMl5BanBnXkFtZTgwNTQzNDk0MDI@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>O terceiro capítulo explosivo da franquia que redefiniu o suspense de espionagem começa com o atleta que se tornou agente do governo Xander Cage saindo de um exílio auto imposto e entrando em rota de colisão com o guerreiro Xiang e seu grupo, em uma corrida para recuperar uma arma sinistra e, ao mesmo tempo, impossível de parar, conhecida como Caixa de Pandora. Após recrutar um novo grupo de soldados em busca de emoção, Xander entra em uma conspiração mortal que aponta para os mais...</info>
+<genre>Ação</genre>
+</channel>
+
+<channel>
+<name>[B]No Limite[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/nolimite</externallink>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/nolimite.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMGI2ZDQwMDQtMDEyYS00ZmFkLWI5ZmItZmYxNjE1YjBhODI4XkEyXkFqcGdeQXVyMjIxOTk4Mzg@._V1_.jpg</fanart>
+<info>Andrew (Scott Eastwood) e Garrett Foster (Freddie Thorp) são dois irmãos que ganham a vida roubando carros de luxo. Quando são contratados para roubar uma raridade no sul da França, eles pensam ter encontrado o trabalho de suas vidas. O que eles não imaginam é que o dono do veículo, Jacomo Morier (Simon Abkarian), é um mafioso perigoso.</info>
+<genre>Ação</genre>
+</channel>
+
+<channel>
 <name>[B]O Primeiro Homem[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/oprimeirohomem</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/oprimeirohomem.png</thumbnail>
