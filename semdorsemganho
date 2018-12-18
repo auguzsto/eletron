@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=raV0XBYtuLs</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTkwNDc1OTA2NF5BMl5BanBnXkFtZTcwNzc1MDYzOQ@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Na década de 1990 em Miami, um gerente de academia e seus cúmplices musculosos sequestram um rico empresário e forçam-no a passar todos os seus bens, incluindo carros e uma mansão de luxo, para eles.</info>
+<genre>Ação</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:affe194372d08065ec1f40a6f434941b3956946d&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMTkwNDc1OTA2NF5BMl5BanBnXkFtZTcwNzc1MDYzOQ@@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info>Na década de 1990 em Miami, um gerente de academia e seus cúmplices musculosos sequestram um rico empresário e forçam-no a passar todos os seus bens, incluindo carros e uma mansão de luxo, para eles.</info>
+<genre>Ação</genre>
+</item>
