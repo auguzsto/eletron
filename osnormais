@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart>https://djiby52t9cgpc.cloudfront.net/custom/uploads/legado/imprensa/foto/download/osnormais_5.jpg</fanart>
+<info>Vani e Rui estão prestes a se casar. Ela com Sérgio, ele com Martha. Ambas as cerimônias estão marcadas para a mesma sacristia, sendo uma às 18 hs e outro às 20 hs. É lá que Vani e Rui se conhecem, quando ela lhe pede um pouco de arroz para comemorar o casamento que está para ocorrer.</info>
+<genre>Comédia</genre>
+</item>
+
+<item>
+<title>[B]Assistir[/B]</title>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:C514BDB1FF9DB979F2014DDEE4DF4A3B4BD0D42C&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart>https://djiby52t9cgpc.cloudfront.net/custom/uploads/legado/imprensa/foto/download/osnormais_5.jpg</fanart>
+<info>Vani e Rui estão prestes a se casar. Ela com Sérgio, ele com Martha. Ambas as cerimônias estão marcadas para a mesma sacristia, sendo uma às 18 hs e outro às 20 hs. É lá que Vani e Rui se conhecem, quando ela lhe pede um pouco de arroz para comemorar o casamento que está para ocorrer.</info>
+<genre>Comédia</genre>
+</item>
