@@ -19,6 +19,15 @@
 </channel>
 
 <channel>
+<name>[B]Recomendados[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/recomendados</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Todos os filmes adicionados recentemente em nosso servidor!</info>
+<genre></genre>
+</channel>
+
+<channel>
 <name>[B]Categorias[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/categorias</externallink>
 <thumbnail></thumbnail>
