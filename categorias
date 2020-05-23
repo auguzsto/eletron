@@ -1,7 +1,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Ação[/B]</name>
+<name>[B]Ação</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/acao</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -12,7 +12,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Animação[/B]</name>
+<name>[B]Animação</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/animacao</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -23,7 +23,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Comédia[/B]</name>
+<name>[B]Comédia</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/comedia</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -34,7 +34,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Drama[/B]</name>
+<name>[B]Drama</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/drama</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -45,7 +45,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Suspense[/B]</name>
+<name>[B]Suspense</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/suspense</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -56,7 +56,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Romance[/B]</name>
+<name>[B]Romance</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/romance</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -67,7 +67,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Terror[/B]</name>
+<name>[B]Terror</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/terror</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -78,7 +78,7 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
-<name>[B]Nacional[/B]</name>
+<name>[B]Nacional</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/nacional</externallink>
 <thumbnail></thumbnail>
 <fanart></fanart>
