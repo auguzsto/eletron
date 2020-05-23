@@ -1,6 +1,55 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Bad Boys Para Sempre</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/badboysparasempre</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sTKl7J5OWnsZSTRiKPIvPx4ngBG.jpg</thumbnail>
+<fanart></fanart>
+<info>Armando é um assassino de sangue frio com uma natureza cruel e provocadora. Ele está comprometido com o trabalho do cartel e é enviado por sua mãe para matar Mike (Smith). Nuñez assumirá o papel de Rita, psicóloga criminal durona e engraçada que é recém-nomeada chefe da AMMO e é ex-namorada de Mike.
+</info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>[B]Aladdin</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/aladdin</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg</thumbnail>
+<fanart></fanart>
+<info>Um jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conceder desejos. Agora o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que está prestes a se noivar. Agora, com a ajuda do Gênio (Will Smith), ele tenta se passar por um príncipe e para conquistar o amor da moça e a confiança de seu pai.
+</info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>[B]Heróis de uma Guerra</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/heroisdeumaguerra</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qzEhkJlNoTwb61UiWGeJP347N.jpg</thumbnail>
+<fanart></fanart>
+<info>Esta é uma história, inspirada em eventos reais, sobre os soldados de uma bateria de canhões na Primeira Guerra Mundial que, como centenas de milhares de outras pessoas, fizeram com que a glória do exército sérvio se tornasse imortal.
+</info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>[B]Perdi Meu Corpo</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/perdimeucorpo</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH0mknMEByXUDTfiS1SQOxYDL5z.jpg</thumbnail>
+<fanart></fanart>
+<info>Naoufel é um jovem apaixonado por Gabrielle. Enquanto isso, em outra parte da cidade, uma mão decepada escapa de um laboratório de dissecação, determinada a encontrar seu corpo novamente.
+</info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>[B]Meu Não Tão Perfeito Marido</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/meunaotaoperfeitomarido</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4NP2EKDM1hFuATixxQlCkJNiyK.jpg</thumbnail>
+<fanart></fanart>
+<info>Karen tem tudo o que sempre desejou: o casamento perfeito, o esposo perfeito, a vida perfeita. Mas quando seu marido é dado como morto após um acidente aéreo em uma viagem de negócios, sua vida desmorona. Ao assumir os negócios de David, ela percebe que ele não era bem o que ela imaginava.
+</info>
+<genre></genre>
+</channel>
+<channel>
 <name>[B]Missão Impossível: Efeito Fallout[/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNjRlZmM0ODktY2RjNS00ZDdjLWJhZGYtNDljNWZkMGM5MTg0XkEyXkFqcGdeQXVyNjAwMjI5MDk@._V1_SY1000_CR0,0,639,1000_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/missaoimpossivelefeitofallout</externallink>
