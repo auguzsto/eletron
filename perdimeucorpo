@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>[B]Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=UfUd4wurNiY</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjE5Nzk1ODgwMV5BMl5BanBnXkFtZTgwMjU5MTE2NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]Assistir</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:296951591feef06ce91f9aab061cbd7ea7b96a58&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart>https://m.media-amazon.com/images/M/MV5BMjE5Nzk1ODgwMV5BMl5BanBnXkFtZTgwMjU5MTE2NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
+<info></info>
+<genre></genre>
+</item>
