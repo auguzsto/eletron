@@ -10,7 +10,7 @@
 
 <item>
 <title>[B]Assistir[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:498f8f0cbaf102d3e4b3eceedd508bb545dc7896&dn=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:498f8f0cbaf102d3e4b3eceedd508bb545dc7896&dn=</link>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BNGYyNTE4NTktNTMyZi00ZDgwLTk0YTUtYzQxZmZjZmRiZjRiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
 <info>Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.</info>
