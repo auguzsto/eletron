@@ -10,7 +10,7 @@
 
 <item>
 <title>[B]Assistir[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:BDD11EE098FA084BBECD023EF5F2A68250AECE97&dn=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDD11EE098FA084BBECD023EF5F2A68250AECE97&dn=</link>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMjE5Nzk1ODgwMV5BMl5BanBnXkFtZTgwMjU5MTE2NjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
 <info>Uma misteriosa presença leva as pessoas ao suicídio. Cinco anos depois, uma sobrevivente e seus dois filhos saem em busca de um abrigo seguro.</info>
