@@ -8,3 +8,21 @@
 <info>Todos os filmes adicionados recentemente em nosso servidor!</info>
 <genre></genre>
 </channel>
+
+<channel>
+<name>[B]Lançamentos[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/lancamentos</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Todos os filmes adicionados recentemente em nosso servidor!</info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>[B]Categorias[/B]</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/categorias</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Todos os filmes adicionados recentemente em nosso servidor!</info>
+<genre></genre>
+</channel>
