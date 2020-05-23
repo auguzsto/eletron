@@ -1,6 +1,26 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]O Menino do Pijama Listrado</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/omeniniodopijamalistrado</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHJ3t0xfWzUFSM87tE42rI0ZgSZ.jpg</thumbnail>
+<fanart></fanart>
+<info>Alemanha, Segunda Guerra Mundial. O menino Bruno (Asa Butterfield), de 8 anos, é filho de um oficial nazista (David Tewlis) que assume um cargo importante em um campo de concentração. Sem saber realmente o que seu pai faz, ele deixa Berlim e se muda com ele e a mãe (Vera Farmiga) para uma área isolada, onde não há muito o que fazer para uma criança com a idade dele. Os problemas começam quando ele decide explorar o local e acaba conhecendo Shmuel (Jack Scanlon), um garoto de idade parecida, que vive usando um pijama listrado e está sempre do outro lado de uma cerca eletrificada. A amizade cresce entre os dois e Bruno passa, cada vez mais, a visitá-lo, tornando essa relação mais perigosa do que eles imaginam.
+</info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>[B]Meu Não Tão Perfeito Marido</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/meunaotaoperfeitomarido</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4NP2EKDM1hFuATixxQlCkJNiyK.jpg</thumbnail>
+<fanart></fanart>
+<info>Karen tem tudo o que sempre desejou: o casamento perfeito, o esposo perfeito, a vida perfeita. Mas quando seu marido é dado como morto após um acidente aéreo em uma viagem de negócios, sua vida desmorona. Ao assumir os negócios de David, ela percebe que ele não era bem o que ela imaginava.
+</info>
+<genre></genre>
+</channel>
+
+<channel>
 <name>[B]O Primeiro Homem[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/oprimeirohomem</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/oprimeirohomem.png</thumbnail>
