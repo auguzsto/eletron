@@ -1,6 +1,24 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Eu Matei Minha Mãe?</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/eumateiminhamae</externallink>
+<thumbnail>https://i.imgur.com/0Yxo595.jpg</thumbnail>
+<fanart></fanart>
+<info>Depois da trágica morte de seu pai, uma jovem mulher vê seu mundo desabar quando sua mãe é misteriosamente assassinada em sua casa. Considerada a principal suspeita, e sem nenhuma lembrança da fatídica noite, ela precisa provar sua inocência.</info>
+<genre>Drama, Suspense</genre>
+</channel>
+
+<channel>
+<name>[B]Um Crime para Dois</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/umcrimeparadois</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywTSQfjmRe9DXLAgxXbFpjZJ2Yo.jpg</thumbnail>
+<fanart></fanart>
+<info>Estar à beira da separação não era suficiente. Esse casal também precisava se enroscar num assassinato, correr atrás do culpado e tentar provar sua inocência.</info>
+<genre>Ação, comédia</genre>
+</channel>
+
+<channel>
 <name>[B]Os Normais: O Filme[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/osnormais</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/osnormais.png</thumbnail>
