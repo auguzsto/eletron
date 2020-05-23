@@ -1,6 +1,15 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Cadê Você, Bernadette?</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/cadevocebernadette</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOd9MCJ3nITyiYslZ3rFEnQ9lPf.jpg</thumbnail>
+<fanart></fanart>
+<info>Antes de viajar com sua família para a Antártica, uma arquiteta que sofre de agorafobia - o medo de estar em lugares abertos ou em meio à multidões - some sem deixar pistas para trás. Sua filha, então, através de emails, sessões com sua psicóloga, cartas e outros documentos, tenta descobrir para onde sua mãe foi e quais foram as razões de seu desaparecimento.</info>
+<genre></genre>
+</channel>
+
+<channel>
 <name>Os Normais: O Filme[/B]</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/osnormais</externallink>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/imagens/master/osnormais.png</thumbnail>
