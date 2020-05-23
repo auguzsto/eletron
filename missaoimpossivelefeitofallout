@@ -10,7 +10,7 @@
 
 <item>
 <title>[B]Assistir[/B]</title>
-<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:edeace36e85e6f04213be48028e56484a08aa511&dn=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edeace36e85e6f04213be48028e56484a08aa511&dn=</link>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletronse/master/play.png</thumbnail>
 <fanart>https://m.media-amazon.com/images/M/MV5BMTUzNDYwNDM3NF5BMl5BanBnXkFtZTgwNjc5Nzc1NTM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
 <info>Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por salvar sua equipe em vez de completar a missão. Com isso, armas nucleares caem nas mãos de agentes altamente qualificados e que pertencem a uma rede mortal que deseja destruir a civilização. Agora, com o mundo em risco, Ethan e sua equipe da IMF são forçados a aliar-se a um obstinado agente da CIA.</info>
