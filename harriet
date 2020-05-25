@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZKa9l1xfi7w</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
+
+<item>
+<title>Harriet</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:168b206136b1dc344de757b2f4e491f04687eddf&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info></info>
+<genre></genre>
+</item>
