@@ -1,6 +1,16 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Amor & Outras Drogas</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/amoreoutrasdrogas</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddn7w20Z342xycVN9I9Lc0ZnKS4.jpg</thumbnail>
+<fanart></fanart>
+<info> - Jamie Randall (Jake Gyllenhaal) é um garanhão incorrigível, do tipo que perde a conta do número de mulheres com quem já transou. Após ser demitido do cargo de vendedor em uma loja de eletrodomésticos por ter seduzido uma das funcionárias, ele passa a trabalhar num grande laboratório da indústria farmacêutica. Como representante comercial, sua função é abordar médicos e convencê-los a prescrever os produtos da empresa para os pacientes. Em uma dessas visitas, ele conhece Maggie Murdock (Anne Hathaway), uma jovem de 26 anos que sofre de mal de Parkinson. Inicialmente, Jamie fica atraído pela beleza física e por ter sido dispensado por ela, mas aos poucos descobre que existe algo mais forte. Maggie, por sua vez, também sente o mesmo, mas não quer levar o caso adiante por causa de sua doença.
+</info>
+<genre></genre>
+</channel>
+
+<channel>
 <name>[B]Liga da Justiça Sombria: Guerra de Apokolips</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/ligadajusticasombriaguerradeapokolips</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWXNbZOvcg7lq9xTP3BdCsDkfjS.jpg</thumbnail>
