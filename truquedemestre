@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iRKur9czUOo</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao trailer.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Truque de Mestre</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A31E7E9E33176C0D072694ED3E00189BBB60F39D&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao filme.</info>
+<genre></genre>
+</item>
