@@ -1,76 +1,82 @@
 <channels></channels>
 <channel>
-<name>[B]Os Incríveis 2[/B]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/osincriveis2</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BMjExMzU1OTc4MV5BMl5BanBnXkFtZTgwNjcxMzkzNTM@._V1_SX1777_CR0,0,1777,818_AL_.jpg</fanart>
-<info>Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.</info>
-<genre>Ação</genre>
+<name>[B]Liga da Justiça Sombria: Guerra de Apokolips</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/ligadajusticasombriaguerradeapokolips</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWXNbZOvcg7lq9xTP3BdCsDkfjS.jpg</thumbnail>
+<fanart></fanart>
+<info>O filme-animado é uma sequência de Liga da Justiça Sombria, animação de 2017 com classificação para maiores. Na trama, Batman reunia um grupo de heróis mágicos para lidar com ameaças sobrenaturais. Entre a galeria de heróis da Liga da Justiça Sombria, temos Constantine, Monstro do Pântano, Zatanna, Etrigan, entre outros. É aguardado a aparição de alguns personagens como Darkseid, as Fúrias e até mesmo o Pai Celestial.
+</info>
+<genre></genre>
 </channel>
 
 <channel>
-<name>[B]O Protetor 2[/B]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/oprotetor2</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BNGYyNTE4NTktNTMyZi00ZDgwLTk0YTUtYzQxZmZjZmRiZjRiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg</fanart>
-<info>Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida.</info>
-<genre>Ação</genre>
+<name>[B]1917</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/1917</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg</thumbnail>
+<fanart></fanart>
+<info>Os cabos Schofield (George MacKay) e Blake (Dean-Charles Chapman) são jovens soldados britânicos durante a Primeira Guerra Mundial. Quando eles são encarregados de uma missão aparentemente impossível, os dois precisam atravessar território inimigo, lutando contra o tempo, para entregar uma mensagem que pode salvar cerca de 1600 colegas de batalhão.
+</info>
+<genre></genre>
 </channel>
 
 <channel>
-<name>[B]22 Milhas[/B]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNzUyODk4OTkxNF5BMl5BanBnXkFtZTgwMzY0MDgzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/22milhas</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BMTgwMzM3MzcxMV5BMl5BanBnXkFtZTgwOTk2ODMxNjM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<info>Um oficial da inteligência de elite dos Estados Unidos, auxiliado por uma unidade de comando tático ultrassecreta, tenta tirar do país um misterioso policial com informações confidenciais.</info>
-<genre>Terror</genre>
+<name>[B]Minha Mãe é uma Peça 3</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/minhamaeeumapeca3</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zw77BFPGJ73Lig8GwRzYj1XHq53.jpg</thumbnail>
+<fanart></fanart>
+<info>Dona Hermínia (Paulo Gustavo) vai ter que se redescobrir e se reinventar porque seus filhos estão formando novas famílias. Essa supermãe vai ter que segurar a emoção para lidar com um novo cenário de vida: Marcelina (Mariana Xavier) está grávida e Juliano (Rodrigo Pandolfo) vai casar. Dona Hermínia está mais ansiosa do que nunca! Para completar as confusões, Carlos Alberto (Herson Capri), seu ex-marido, que esteve sempre por perto, agora resolve ficar ainda mais próximo.
+</info>
+<genre></genre>
 </channel>
 
 <channel>
-<name>[B]A Freira[/B]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/afreira</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BNzk3ODE4OTMzMF5BMl5BanBnXkFtZTgwMDA5NzgxNjM@._V1_SX1777_CR0,0,1777,744_AL_.jpg</fanart>
-<info>Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre assombrado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento em um campo de batalha.</info>
-<genre>Terror</genre>
+<name>[B]Sonic – O Filme</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/sonicofilme</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJRcxUYDZb7LtV8AID19hxcqvaq.jpg</thumbnail>
+<fanart></fanart>
+<info>Baseado na franquia global de videogames de sucesso da Sega, Sonic: O Filme conta a história do ouriço mais rápido do mundo enquanto ele abraça sua nova casa na Terra. Nesta comédia de aventura de ação ao vivo, Sonic e seu novo melhor amigo se unem para defender o planeta do gênio do mal Dr. Robotnik e seus planos para dominar o mundo.
+</info>
+<genre></genre>
 </channel>
 
 <channel>
-<name>[B]Homem-Aranha: De Volta ao Lar[/B]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_SY1000_CR0,0,658,1000_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/homemaranhadevoltaaolar</externallink>
-<fanart>https://images2.alphacoders.com/817/817125.jpg</fanart>
-<info>Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava</info>
-<genre>Ação, Ficção Científica</genre>
+<name>[B]Truque de Mestre</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/truquedemestre</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZyC1mXEs13adcmU2NibCP0W5F6.jpg</thumbnail>
+<fanart></fanart>
+<info>Um agente do F.B.I. e uma detetive da Interpol rastreiam uma equipe de ilusionistas que realizam assaltos a bancos durante suas apresentações e recompensam seu público com o dinheiro.
+</info>
+<genre></genre>
 </channel>
 
 <channel>
-<name>[B]Vidas à Deriva[/B]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTkxMTI2MjE4OF5BMl5BanBnXkFtZTgwMjIyODQzNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/vidasaderiva</externallink>
-<fanart>https://wallpapersite.com/images/pages/pic_w/13576.jpg</fanart>
-<info>Apaixonados, os noivos Tami Oldham (Shailene Woodley) e Richard Sharp (Sam Claflin) velejam em mar aberto quando são atingidos por uma terrível tempestade. Passada a tormenta, ela se vê sozinha na embarcação em ruínas e tenta encontrar uma maneira de salvar a própria vida e a do parceiro debilitado.</info>
-<genre>Romance, Drama, Suspense</genre>
+<name>[B]The Night Clerk</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/thenightclerk</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPWjid7yMatyIDHvku7lCMN7zSi.jpg</thumbnail>
+<fanart></fanart>
+<info>Enquanto estava de serviço, um jovem atendente de hotel testemunha um assassinato em um dos quartos, mas suas ações suspeitas o colocam como o suspeito número um.
+</info>
+<genre></genre>
 </channel>
 
 <channel>
-<name>[B]A Origem[/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS7zSEIXlHBUKpOz8jEBjKfPub-pZ2Fyk6aM0j0AEttmwWq08CD</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/aorigem</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BMTU0MzQxMDY0MV5BMl5BanBnXkFtZTcwOTY0OTk1Mw@@._V1_SX1777_CR0,0,1777,734_AL_.jpg</fanart>
-<info>Don Cobb é um ladrão que invade os sonhos das pessoas e rouba segredos do subconsciente. As habilidades especiais de Cobb fazem com que ele seja procurado pelo mundo da espionagem empresarial, mas lhe custa tudo que ama. Cobb recebe uma missão impossível: plantar uma ideia na mente de uma pessoa. Se for bem-sucedido, será o crime perfeito, mas um amigo prevê todos os passos de Cobb.</info>
-<genre>Suspense</genre>
+<name>[B]Raça e Redenção</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/racaeredencao</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg</thumbnail>
+<fanart></fanart>
+<info>Ativista de direitos civis Ann Atwater (Taraji P. Henson), bate de frente com C.P. Ellis (Sam Rockwell), líder exaltado do Ku Klux Klan em Durham, na Carolina do Norte, de1971, sobre a questão de integração nas escolas.
+</info>
+<genre></genre>
 </channel>
 
-
 <channel>
-<name>[B]Vingadores: Guerra Infinita[/B]</name>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/vingadoresguerrainfinita</externallink>
-<fanart>https://m.media-amazon.com/images/M/MV5BMTUyMTU2NjUxM15BMl5BanBnXkFtZTgwOTg2MTUwNTM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<fanart>https://m.media-amazon.com/images/M/MV5BMTUyMTU2NjUxM15BMl5BanBnXkFtZTgwOTg2MTUwNTM@._V1_SX1500_CR0,0,1500,999_AL_.jpg</fanart>
-<info>Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.</info>
-<genre>Fantasia, Ação.</genre>
+<name>[B]Harriet</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/harriet</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFfn2PISJ8u4Ui45kIY6vASEHjq.jpg</thumbnail>
+<fanart></fanart>
+<info>A história de Harriet Tubman, ativista política que, durante a Guerra Civil americana, ajudou centenas de escravos a fugirem do sul dos Estados Unidos, logo depois que ela mesma tivesse conseguido escapar da escravidão, no ano de 1849. Suas ações contribuíram fortemente para que a história tomasse um novo direcionamento.
+</info>
+<genre></genre>
 </channel>
 
 <channel>
