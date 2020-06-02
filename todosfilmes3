@@ -71,3 +71,13 @@
 <info>Em uma perigosa tarefa para recuperar plutônio roubado, Ethan Hunt opta por salvar sua equipe em vez de completar a missão. Com isso, armas nucleares caem nas mãos de agentes altamente qualificados e que pertencem a uma rede mortal que deseja destruir a civilização. Agora, com o mundo em risco, Ethan e sua equipe da IMF são forçados a aliar-se a um obstinado agente da CIA.</info>
 <genre>Ação</genre>
 </channel>
+
+<channel>
+<name>[B]Próxima página</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/todosfilmes4</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Ir à próxima listagem de filmes!
+</info>
+<genre></genre>
+</channel>
