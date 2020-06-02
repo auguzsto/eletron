@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=flX1iAEy6XU</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao trailer.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Queen e Slim</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3d5bc3a49ac27ed34d0bacdd4203da684610231&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao filme.</info>
+<genre></genre>
+</item>
