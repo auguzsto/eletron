@@ -77,3 +77,13 @@
 <info>Antes de viajar com sua família para a Antártica, uma arquiteta que sofre de agorafobia - o medo de estar em lugares abertos ou em meio à multidões - some sem deixar pistas para trás. Sua filha, então, através de emails, sessões com sua psicóloga, cartas e outros documentos, tenta descobrir para onde sua mãe foi e quais foram as razões de seu desaparecimento.</info>
 <genre></genre>
 </channel>
+
+<channel>
+<name>[B]Próxima página</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/todosfilmes7</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Ir à próxima listagem de filmes!
+</info>
+<genre></genre>
+</channel>
