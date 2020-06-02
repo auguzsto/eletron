@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=sr4doQTvqlI</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao trailer.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>1917</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05612AED0CE9B1EA3446A5334AE7EDAFD901A6B0&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao filme.</info>
+<genre></genre>
+</item>
