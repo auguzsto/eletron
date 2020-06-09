@@ -1,6 +1,24 @@
 <layouttype>thumbnail</layouttype>
 <channels></channels>
 <channel>
+<name>[B]Corra!</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/corra</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg</thumbnail>
+<fanart></fanart>
+<info> - Agora que Chris e sua namorada, Rose, chegaram à fase de conhecer os pais no namoro, ela o convida para um fim de semana no interior com Missy e Dean. A princípio, Chris acha que o comportamento excessivamente agradável dos dois como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas, conforme o fim de semana avança, uma série de descobertas cada vez mais perturbadoras o levam a uma verdade que ele jamais poderia ter imaginado. </info>
+<genre></genre>
+</channel>
+
+<channel>
+<name>[B]Aves de Rapina: Arlequina e sua Emancipação Fantabulosa</name>
+<externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/avesderapina</externallink>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg</thumbnail>
+<fanart></fanart>
+<info> - Quando o mais terrível e narcisista vilão de Gotham, Roman Sionis (Ewan McGregor), e seu braço direito, Zsasz (Chris Messina), começam a caçar a jovem Cass (Ella Jay Basco), a cidade é virada de cabeça para baixo em busca da garota. Os caminhos de Arlequina (Margot Robbie), Caçadora (Mary Elizabeth Winstead), Canário Negro (Jurnee Smollett-Bell) e Renée Montoya (Rosie Perez) se encontram e o quarteto improvável não tem escolha a não ser um para derrubar Roman. </info>
+<genre></genre>
+</channel>
+
+<channel>
 <name>[B]lha do Medo</name>
 <externallink>https://raw.githubusercontent.com/auguzsto/eletron/master/ilhadomedo</externallink>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9SreIsoUwFVVIVGph6kDuahmwM.jpg</thumbnail>
