@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=vzMLBmG2lnc</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao trailer.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Aves de Rapina: Arlequina e sua Emancipação Fantabulosa</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b8b2cf602d32b0f347570e1b68c4de1f3fcf15c&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao filme.</info>
+<genre></genre>
+</item>
