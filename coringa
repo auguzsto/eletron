@@ -1,0 +1,28 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MjjPIPh6aXQ</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao trailer.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Coringa</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B1C8A263B6436E6A279A6DF21BAFB0255088A97&dn=/link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao filme.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Legendado</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a9b29b9413f5023f059aff26663c37f50be0cb&dn=/link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao filme.</info>
+<genre></genre>
+</item>
+
