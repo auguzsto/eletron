@@ -17,12 +17,3 @@
 <genre></genre>
 </item>
 
-<item>
-<title>Legendado</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a9b29b9413f5023f059aff26663c37f50be0cb&dn=/link>
-<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
-<fanart></fanart>
-<info>Assista ao filme.</info>
-<genre></genre>
-</item>
-
