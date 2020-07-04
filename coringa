@@ -10,7 +10,7 @@
 
 <item>
 <title>Coringa</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B1C8A263B6436E6A279A6DF21BAFB0255088A97&dn=/link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B1C8A263B6436E6A279A6DF21BAFB0255088A97&dn=</link>
 <thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
 <fanart></fanart>
 <info>Assista ao filme.</info>
