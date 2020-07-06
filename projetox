@@ -1,0 +1,18 @@
+<?xml version="4.0" encoding="utf-8" standalone="yes"?>
+<item>
+<title>Trailer</title>
+<link>plugin://plugin.video.youtube/play/?video_id=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play-trailer.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao trailer.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>Projeto X - Uma Festa Fora de Controle</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16ee4c7de4fbaca85792458e8e2d567715f47090&dn=</link>
+<thumbnail>https://raw.githubusercontent.com/auguzsto/eletron/master/play.png</thumbnail>
+<fanart></fanart>
+<info>Assista ao filme.</info>
+<genre></genre>
+</item>
